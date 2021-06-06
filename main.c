@@ -2,7 +2,7 @@
 
 int main() {
     int test;
-    test = 0b1111;:
+    test = 0b1111;
 
     long bit;
     bit = test ^ 0xff5;
